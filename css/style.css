@@ -2114,3 +2114,32 @@ body.offcanvason .oliven-nav-toggle {
         background-attachment: scroll !important;
     }
 }
+
+.account-details {
+    background: #fff6f9;
+    border: 2px dashed #f06292;
+    padding: 30px 20px;
+    border-radius: 15px;
+    margin-top: 40px;
+    color: #e91e63;
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.account-title {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: #c2185b;
+}
+
+.account-info {
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+.thank-you {
+    margin-top: 20px;
+    font-style: italic;
+    color: #ad1457;
+}
